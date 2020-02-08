@@ -1,5 +1,7 @@
 # README
 
+![](preview.gif)
+
 ### Prerequisites 
 
 - Ruby ruby 2.4.4
