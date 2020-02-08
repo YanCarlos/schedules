@@ -1,0 +1,26 @@
+@import './time.min.css';
+
+.height-32 {
+  height: 32px;
+}
+
+.round-button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 32px;
+  border-radius: 50%;
+  padding: 0;
+
+  &.delete {
+    background-color: #f2dfde;
+    border: 1px solid #ebccd1;
+    color: #a94442;
+  }
+
+  &.add {
+    background-color: #dff0d8;
+    border: 1px solid #d6e9c6;
+    color: #3c763d;
+  }
+}
