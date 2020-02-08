@@ -29,3 +29,11 @@ To run all test, use bellow command
 ```
 $ rspec
 ```
+
+## Notes
+
+You can find the form as a React component in:
+
+```
+ app/javascript/components/CreateEvent.js
+``` 
