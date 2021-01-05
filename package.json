@@ -6,7 +6,7 @@
     "@material-ui/pickers": "^3.2.10",
     "@rails/webpacker": "4.2.2",
     "antd": "^3.26.8",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "babel-plugin-transform-react-remove-prop-types": "^0.4.24",
     "bootstrap": "^4.4.1",
     "formik": "^2.1.4",
