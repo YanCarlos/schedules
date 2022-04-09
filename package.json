@@ -10,7 +10,7 @@
     "babel-plugin-transform-react-remove-prop-types": "^0.4.24",
     "bootstrap": "^4.4.1",
     "formik": "^2.1.4",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "moment-timezone": "^0.5.27",
     "prop-types": "^15.7.2",
     "react": "^16.12.0",
